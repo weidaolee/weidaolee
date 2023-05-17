@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![WeidaoLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=weidaolee&show_icons=true&theme=material-palenight)](https://github.com/weidaolee/github-readme-stats)
+[![WeidaoLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=weidaolee&show_icons=true&count_private=true&theme=material-palenight)](https://github.com/weidaolee/github-readme-stats)
 <!--
 **weidaolee/weidaolee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
